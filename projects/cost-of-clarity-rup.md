@@ -41,7 +41,7 @@ The resulting loop is causal rather than merely thematic: unresolved information
 
 ## How the RUP project tests the idea
 
-The technical presentation **[The Cost of Clarity — Scientific Problem and Applied-Research Method](cost-of-clarity/cost-of-clarity-scientific-problem-and-method.pdf)** converts the field account into four non-exclusive explanations:
+The OÜ JUBAP technical presentation **[The Cost of Clarity — Scientific Problem and Applied-Research Method](cost-of-clarity/cost-of-clarity-scientific-problem-and-method.pdf)** converts the field account into four non-exclusive explanations:
 
 | Factor | Explanation | Treatment in the current study |
 |---|---|---|
@@ -73,6 +73,6 @@ Cost of Clarity is the current applied-research priority within the [Structural 
 
 - **[The Minimal Information a Transformation Needs](https://tegrity.ai/the-minimal-information-a-transformation-needs/)** — public field notes and working paper; the conceptual origin, not a validated method.
 - **Human Intelligence Debt and the Governance Bottleneck** — June 2026 working thesis defining architectural entropy, entanglement and the governance mechanism; no peer review is claimed.
-- **[The Cost of Clarity — Scientific Problem and Applied-Research Method](cost-of-clarity/cost-of-clarity-scientific-problem-and-method.pdf)** — technical presentation included in the July 2026 EIS RUP consultation package; it documents the project design, not an EIS decision or endorsement.
+- **[The Cost of Clarity — Scientific Problem and Applied-Research Method](cost-of-clarity/cost-of-clarity-scientific-problem-and-method.pdf)** — OÜ JUBAP technical presentation included in the July 2026 EIS RUP consultation package; it documents the project design, not an EIS decision or endorsement.
 
 The full research method, protected case material and programme documentation remain under controlled project custody. This public brief describes the research object and its current institutional route without implying an outcome that has not occurred.
