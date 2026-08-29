@@ -4,6 +4,8 @@
 
 I work where large operational systems, institutional constraints and decision architectures meet. My background spans Nokia R&D, enterprise transformation, logistics and mobility platforms, and current research on how organizations and AI-enabled systems establish sufficient clarity, recognize changing operating regimes and respond without unnecessary complexity.
 
+Contact: [ivan.abril@tegrity.ai](mailto:ivan.abril@tegrity.ai)
+
 My current research is organized through the [Structural Awareness Programme](https://tegrity.ai/structural-awareness-program/) at Tegrity.AI. It connects four questions along a practical decision cycle:
 
 1. **Cost of Clarity** — what must be known and made explicit before commitment?
