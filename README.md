@@ -1,10 +1,8 @@
-# Ivan Abril Palma
+# Iván Abril Palma
 
 **Enterprise and complex-systems architecture · operational intelligence · technology value creation**
 
 I work where large operational systems, institutional constraints and decision architectures meet. My background spans Nokia R&D, enterprise transformation, logistics and mobility platforms, and current research on how organizations and AI-enabled systems establish sufficient clarity, recognize changing operating regimes and respond without unnecessary complexity.
-
-Contact: [ivan.abril@tegrity.ai](mailto:ivan.abril@tegrity.ai)
 
 My current research is organized through the [Structural Awareness Programme](https://tegrity.ai/structural-awareness-program/) at Tegrity.AI. It connects four questions along a practical decision cycle:
 
@@ -12,6 +10,12 @@ My current research is organized through the [Structural Awareness Programme](ht
 2. **Regime Awareness** — do the assumptions supporting the decision remain valid during operation?
 3. **Regime Change Detection** — what observable evidence indicates that the operating regime has changed?
 4. **Minimum Sufficient Control** — what bounded observation, coordination and intervention capacity is sufficient to maintain or recover a declared objective?
+
+## Selected research references
+
+- **[Structural Awareness Programme](https://tegrity.ai/structural-awareness-program/)** — the umbrella programme connecting Cost of Clarity, Regime Awareness, Regime Change Detection and Minimum Sufficient Control within a practical decision cycle.
+- **[Minimalistic Regime-Aware Early Warning Systems](https://tegrity.ai/minimalistic-regime-aware-early-warning-systems/)** — an architectural approach for determining whether the assumptions, baselines and controls supporting a decision remain valid under changing operating regimes.
+- **[The Limits of AI Oversight](https://tegrity.ai/the-limits-of-ai-oversight/)** — an examination of human supervisory capacity, escalation overload and the conditions under which formally present human oversight may cease to be operationally meaningful.
 
 ## Selected industrial applications
 
