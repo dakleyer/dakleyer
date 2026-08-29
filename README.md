@@ -6,16 +6,6 @@ I work where large operational systems, institutional constraints and decision a
 
 Contact: [ivan.abril@tegrity.ai](mailto:ivan.abril@tegrity.ai)
 
-## Current applied-research priority
-
-### Cost of Clarity — EIS Estonia RUP
-
-OÜ JUBAP has submitted **Cost of Clarity** for preliminary assessment under Estonia's [Programme for Applied Research (RUP), administered by EIS](https://eis.ee/en/services/programme-for-applied-research/). The project asks whether missing, contradictory, tacit or institutionally undeclared information conditions can be detected economically **before** an organization commits to a complex initiative—and whether a sealed pre-commitment assessment can anticipate the later information-acquisition burden or outcome.
-
-The intended result is an auditable **Data and Information Readiness Instrument**, initially expert-led and tested through preregistered criteria, independent coding, sealed prospective readings and explicit negative-result discipline. The RUP design identifies the [TalTech Information Systems Group](https://taltech.ee/en/is) and the [TalTech Next Gen Digital State Research Group](https://taltech.ee/en/department-of-software-science/cooperation/next-gen-digital-state-research-group) as prospective sources of supporting R&D capacity. Their roles remain proposed and subject to scope and agreement; no funding award, institutional endorsement or concluded TalTech contract is claimed.
-
-**[Read the short project brief](projects/cost-of-clarity-rup.md)**
-
 ## Structural Awareness Programme
 
 My current research is organized through the [Structural Awareness Programme](https://tegrity.ai/structural-awareness-program/) at Tegrity.AI. It connects four questions along a practical decision cycle:
@@ -51,10 +41,10 @@ My current research is organized through the [Structural Awareness Programme](ht
 
 ## Current contribution areas
 
+- **[Cost of Clarity — EIS Estonia RUP](projects/cost-of-clarity-rup.md).** Under preliminary assessment through Estonia's [Programme for Applied Research, administered by EIS](https://eis.ee/en/services/programme-for-applied-research/), the project tests whether missing, contradictory, tacit or undeclared information conditions can be detected economically before commitment to a complex initiative. The intended output is an auditable **Data and Information Readiness Instrument**; the design identifies the [TalTech Information Systems Group](https://taltech.ee/en/is) and [TalTech Next Gen Digital State Research Group](https://taltech.ee/en/department-of-software-science/cooperation/next-gen-digital-state-research-group) as prospective sources of supporting R&D capacity, subject to scope and agreement. No funding decision, institutional endorsement or concluded research-partner agreement is claimed.
 - **[ITU-T FG-TIDA](https://www.itu.int/en/ITU-T/focusgroups/tida/Pages/default.aspx) — regime-aware trust and human oversight.** We propose **regime awareness as a precondition for trust decisions and escalation**: before relying on a signal, policy or human review, the system should determine whether its assumptions and evidence remain valid in the current operating regime. The [public working contribution](contributions/fg-tida/operational-human-oversight.md) also makes explicit when human oversight has reached its limits because evidence, time, capacity, authority or intervention reach are no longer sufficient.
 - **[ITU-T FG-AI4SSC](https://www.itu.int/en/ITU-T/focusgroups/ai4ssc/Pages/default.aspx) — Minimum Sufficient Control for smart sustainable cities.** We are contributing the question of what minimum observation, coordination, architecture, technology and intervention is sufficient for a city’s declared objectives and constraints. The purpose is to help cities compare practically equivalent configurations, reuse existing capabilities and avoid unnecessary complexity rather than assume maximum sensing, connectivity or control.
 - **[UNECE WP.6 RAMS](https://unece.org/info/Trade/events/413928) — on our radar.** A prospective route for risk-based regulation, market surveillance and effective oversight under limited institutional capacity; no contribution has been submitted.
-- **[EIS Estonia RUP — Cost of Clarity](projects/cost-of-clarity-rup.md).** The current applied-research route tests whether missing, contradictory, tacit or undeclared information conditions can be detected economically before commitment to a complex initiative. It is under preliminary assessment; no funding decision or research-partner commitment is claimed.
 - **[QAVA — Universitat de València](https://www.uv.es/uvweb/research-service/en/research-groups-1285947851930.html?p2=3064) — early or quantum-inspired advantage in former orchestration systems.** This preliminary methodological line asks whether historical orchestration architectures contain structures that can be reformulated and tested for an early or quantum-inspired computational advantage under regime change, using the [Regime Awareness corpus](https://tegrity.ai/series/regime-awareness-in-adaptive-systems/). No demonstrated quantum advantage, institutional validation or concluded collaboration is claimed.
 
 ## Evidence and claim boundaries
