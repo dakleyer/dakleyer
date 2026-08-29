@@ -4,6 +4,20 @@
 
 I work where large operational systems, institutional constraints and decision architectures meet. My background spans Nokia R&D, enterprise transformation, logistics and mobility platforms, and current research on how organizations and AI-enabled systems establish sufficient clarity, recognize changing operating regimes and respond without unnecessary complexity.
 
+Contact: [ivan.abril@tegrity.ai](mailto:ivan.abril@tegrity.ai)
+
+## Current applied-research priority
+
+### Cost of Clarity — EIS Estonia RUP
+
+OÜ JUBAP has submitted **Cost of Clarity** for preliminary assessment under Estonia's [Programme for Applied Research (RUP), administered by EIS](https://eis.ee/en/services/programme-for-applied-research/). The project asks whether missing, contradictory, tacit or institutionally undeclared information conditions can be detected economically **before** an organization commits to a complex initiative—and whether a sealed pre-commitment assessment can anticipate the later information-acquisition burden or outcome.
+
+The intended result is an auditable **Data and Information Readiness Instrument**, initially expert-led and tested through preregistered criteria, independent coding, sealed prospective readings and explicit negative-result discipline. The RUP design identifies the [TalTech Information Systems Group](https://taltech.ee/en/is) and the [TalTech Next Gen Digital State Research Group](https://taltech.ee/en/department-of-software-science/cooperation/next-gen-digital-state-research-group) as prospective sources of supporting R&D capacity. Their roles remain proposed and subject to scope and agreement; no funding award, institutional endorsement or concluded TalTech contract is claimed.
+
+**[Read the short project brief](projects/cost-of-clarity-rup.md)**
+
+## Structural Awareness Programme
+
 My current research is organized through the [Structural Awareness Programme](https://tegrity.ai/structural-awareness-program/) at Tegrity.AI. It connects four questions along a practical decision cycle:
 
 1. **Cost of Clarity** — what must be known and made explicit before commitment?
