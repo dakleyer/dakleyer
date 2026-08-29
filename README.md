@@ -41,9 +41,9 @@ My current research is organized through the [Structural Awareness Programme](ht
 
 ### Field-deployed operational intelligence
 
-- **[Urban mobility in Tuxpan, Mexico](https://jubap.net/1843-2/)** — a 2010–2011 field deployment coordinating approximately 60 vehicles and 70% of urban coverage through GPS/GPRS, computer-vision passenger counting and a control centre in a hybrid formal–informal transport ecosystem.
 - **GEPLAN operational systems** — a modular operational platform integrating inventory, budgeting, fleet and workshop management, logistics planning, fuel and volumetric controls. The [suite reconstruction](https://jubap.net/jubap-net-geplan-suite-from-embedded-suites-to-operational-ai-integrity/) documents its software and integration lineage; the [regional logistics account](https://jubap.net/before-digital-transformation-had-a-name-jubap-net-geplan-and-the-hidden-logistics-lab-behind-pemex-operations/) describes a decision-and-control backbone across three logistics hubs supporting TETSA-side operations connected with PEMEX logistics. It was not a PEMEX-owned platform.
 - **[xSeil passenger-transport orchestration](https://jubap.net/jubap-net-xseil-whitepaper/)** — a 2016–2017 centralized, stability-driven, VRP-class platform for fully committed demand and dense operational constraints: around 12,000 daily visitors, 500 hotels or pickup points and more than 100 operational rules. Its integrated planning, fleet readiness, monitoring and dynamic adjustment can be interpreted retrospectively as **pre-agentic orchestration**; it was neither implemented nor originally described as an agent system.
+- **[Urban mobility in Tuxpan, Mexico](https://jubap.net/1843-2/)** — a 2010–2011 field deployment coordinating approximately 60 vehicles and 70% of urban coverage through GPS/GPRS, computer-vision passenger counting and a control centre in a hybrid formal–informal transport ecosystem.
 
 ### Regime-aware computation in financial systems
 
@@ -51,11 +51,11 @@ My current research is organized through the [Structural Awareness Programme](ht
 
 ## Current contribution areas
 
-- Structural awareness and decision quality in adaptive systems.
-- Enterprise and public-system architecture under incomplete information.
-- Regime-aware AI, context validity and revision-aware computation.
-- Minimum sufficient observation, coordination and control.
-- Evidence-grounded contributions to standards and institutional working groups.
+- **[ITU-T FG-TIDA](https://www.itu.int/en/ITU-T/focusgroups/tida/Pages/default.aspx) — regime-aware trust and human oversight.** We propose **regime awareness as a precondition for trust decisions and escalation**: before relying on a signal, policy or human review, the system should determine whether its assumptions and evidence remain valid in the current operating regime. The [public working contribution](contributions/fg-tida/operational-human-oversight.md) also makes explicit when human oversight has reached its limits because evidence, time, capacity, authority or intervention reach are no longer sufficient.
+- **[ITU-T FG-AI4SSC](https://www.itu.int/en/ITU-T/focusgroups/ai4ssc/Pages/default.aspx) — Minimum Sufficient Control for smart sustainable cities.** We are contributing the question of what minimum observation, coordination, architecture, technology and intervention is sufficient for a city’s declared objectives and constraints. The purpose is to help cities compare practically equivalent configurations, reuse existing capabilities and avoid unnecessary complexity rather than assume maximum sensing, connectivity or control.
+- **[UNECE WP.6 RAMS](https://unece.org/info/Trade/events/413928) — on our radar.** A prospective route for risk-based regulation, market surveillance and effective oversight under limited institutional capacity; no contribution has been submitted.
+- **[EIS Estonia RUP — Cost of Clarity](projects/cost-of-clarity-rup.md).** The current applied-research route tests whether missing, contradictory, tacit or undeclared information conditions can be detected economically before commitment to a complex initiative. It is under preliminary assessment; no funding decision or research-partner commitment is claimed.
+- **[QAVA — Universitat de València](https://www.uv.es/uvweb/research-service/en/research-groups-1285947851930.html?p2=3064) — early or quantum-inspired advantage in former orchestration systems.** This preliminary methodological line asks whether historical orchestration architectures contain structures that can be reformulated and tested for an early or quantum-inspired computational advantage under regime change, using the [Regime Awareness corpus](https://tegrity.ai/series/regime-awareness-in-adaptive-systems/). No demonstrated quantum advantage, institutional validation or concluded collaboration is claimed.
 
 ## Evidence and claim boundaries
 
