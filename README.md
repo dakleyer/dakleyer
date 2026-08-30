@@ -19,19 +19,23 @@ My current research is organized through the [Structural Awareness Programme](ht
 
 ### Enterprise architecture and rationalization
 
-- **[Group-wide application rationalization](https://jubap.eu/1654-2/)** — a three-year steering-level programme spanning more than 50 Maisons and approximately 6,000 systems in a global luxury group. It produced the first consolidated global application footprint and reports approximately three times programme ROI by year three.
+- **[Group-wide application and technology rationalization](https://jubap.eu/1654-2/)** — spanning more than 50 Maisons and approximately 6,000 systems in a global luxury group. 
 - **[Supply-chain rationalization and process mining](https://jubap.eu/supply-chain-rationalization-process-mining/)** — reconstruction of multi-entity and multi-country flows, variants, bottlenecks, rework and application dependencies.
 - **[High-end event intelligence and demand orchestration](https://jubap.eu/high-end-event-intelligence-demand-orchestration/)** — reusable architecture for complex guest journeys across transport, aviation, hospitality, security, logistics, CRM and clienteling.
 
 ### Operational intelligence
 
-- **GEPLAN operational systems** — a modular platform integrating inventory, budgeting, fleet, workshops, logistics, fuel and volumetric controls. See the [suite reconstruction](https://jubap.net/jubap-net-geplan-suite-from-embedded-suites-to-operational-ai-integrity/) and [regional logistics account](https://jubap.net/before-digital-transformation-had-a-name-jubap-net-geplan-and-the-hidden-logistics-lab-behind-pemex-operations/). It supported TETSA-side operations connected with PEMEX logistics but was not a PEMEX-owned platform.
-- **[xSeil passenger-transport orchestration](https://jubap.net/jubap-net-xseil-whitepaper/)** — a 2016–2017 centralized, VRP-class platform for approximately 12,000 daily visitors, 500 hotels or pickup points and more than 100 operational rules. It can be interpreted retrospectively as pre-agentic orchestration, although it was not originally described as an agent system.
-- **[Urban mobility in Tuxpan, Mexico](https://jubap.net/1843-2/)** — a 2010–2011 deployment coordinating approximately 60 vehicles and 70% of urban coverage through GPS/GPRS, computer-vision passenger counting and a control centre.
+- - **GEPLAN distributed logistics operations backbone** — an integrated operational, planning and control system that became the digital backbone of large-scale transport operations serving PEMEX across central and northern Mexico. It unified previously fragmented operations through three logistics control hubs and combined logistics planning, fleet maintenance, warehouses, purchasing, finance, HR, fuel and volumetric controls with operational traceability and decision support. The system detected irregular activities and inferred production, tank-volume and equipment-condition information from partially digitalized field operations. Its implementation also included process reengineering, ISO-based governance and interfaces designed for predominantly non-digital users. See the [suite reconstruction](https://jubap.net/jubap-net-geplan-suite-from-embedded-suites-to-operational-ai-integrity/) and the [full operational account](https://jubap.net/before-digital-transformation-had-a-name-jubap-net-geplan-and-the-hidden-logistics-lab-behind-pemex-operations/). GEPLAN supported contractor-side operations connected with PEMEX and became a reference source for regional logistics, but it was not a PEMEX-owned platform.
+- **[xSeil passenger-transport orchestration](https://jubap.net/jubap-net-xseil-whitepaper/)** — a 2016–2017 centralized, VRP-class platform for 10000+ daily visitors, 500 hotels or pickup points and more than 100 operational rules. It can be interpreted retrospectively as pre-agentic orchestration, although it was not originally described as an agent system.
+- **[Urban mobility in Tuxpan, Mexico](https://jubap.net/1843-2/)** — a 2010–2011 deployment with through GPS/GPRS, computer-vision passenger counting and a control centre.
 
 ### Regime-aware computation
 
 - **[Phylons](https://jubap.net/series/phylons_papers/)** — a code-grounded research lineage originating in 2018–2021 implementations, transforming continuous observations into semantic states and context-aware computations. It is an architectural and methodological corpus, not a claim of demonstrated trading returns.
+
+### R&D infrastructure and distributed systems
+
+- **[Nokia Barcelona R&D] 2000-2004** — infrastructure and service operations lead, working on UMTS, open standards, firmware, hardware and early mobile-service prototypes, including messaging ecosystems, location-based services and early social-networking models. My role included the implementation of distributed working infrastructure.
 
 ## Current contribution areas
 
