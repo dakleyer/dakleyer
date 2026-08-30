@@ -35,7 +35,7 @@ My current research is organized through the [Structural Awareness Programme](ht
 
 ### R&D infrastructure and distributed systems
 
-- **[Nokia Barcelona R&D] 2000-2004** — infrastructure and service operations lead, working on UMTS, open standards, firmware, hardware and early mobile-service prototypes, including messaging ecosystems, location-based services and early social-networking models. My role included the implementation of distributed working infrastructure.
+- **[Nokia R&D] Nov 1999-2004** — infrastructure and service operations lead. My role included the implementation of distributed working infrastructure. WADC Barcelona worked on UMTS, open standards, firmware, hardware and early mobile-service prototypes, including messaging ecosystems, location-based services and early social-networking models.
 
 ## Current contribution areas
 
