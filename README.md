@@ -15,6 +15,20 @@ My current research is organized through the [Structural Awareness Programme](ht
 3. **Regime Change Detection** — what evidence indicates that the operating regime has changed?
 4. **Minimum Sufficient Control** — what bounded capacity is sufficient to maintain or recover the objective?
 
+**Ecosystem Awareness** is the transversal, decision-scoped architecture between pre-commitment clarity, changing operating conditions and bounded control. It asks what is sufficiently determined, what residual remains and when the current frame must be requalified. It does not replace the four distinct questions above.
+
+## Navigate the public work
+
+The [Structural Awareness contribution repository](https://github.com/dakleyer/structural-awareness-contributions) is the GitHub entry point. Its workstreams retain separate ownership, evidence and validation requirements; these links are a reading route, not a claim that one workstream validates another.
+
+| Begin with | Read next | What you will find |
+|---|---|---|
+| [Programme map](https://github.com/dakleyer/structural-awareness-contributions) | [Public submissions library](https://github.com/dakleyer/structural-awareness-contributions/tree/main/submissions) | Workstream questions, relationships and exact contribution status. |
+| [Cost of Clarity / RUP](https://github.com/dakleyer/structural-awareness-contributions/tree/main/applied-research/cost-of-clarity-rup) | [Ecosystem Awareness reading map](https://github.com/dakleyer/structural-awareness-contributions/blob/main/research/ecosystem-awareness/READING_MAP.md) | Pre-commitment information and authority, then the distinct EA decision-scoped architecture. |
+| [EA canonical corpus](https://github.com/dakleyer/structural-awareness-contributions/tree/main/research/ecosystem-awareness) | [DAOS-derived case and test guide](https://github.com/dakleyer/structural-awareness-contributions/blob/main/research/ecosystem-awareness/validation/DAOS_EA_USE_CASES_MASTERCLASS_v0.1.md) | Baseline, working annexes, benchmark, lineage, four validation profiles and provenance. The public mirror still has verification work pending. |
+| [Regime Awareness](https://github.com/dakleyer/structural-awareness-contributions/tree/main/research/regime-awareness) | [Minimum Sufficient Control](https://github.com/dakleyer/structural-awareness-contributions/tree/main/standards/minimum-sufficient-control) | Operating-context validity and bounded control; distinct research and standards-oriented routes. |
+| [Delegated Authority OS parent case](https://github.com/dakleyer/structural-awareness-contributions/tree/main/submissions/itu-fg-tida/2026-theme-contributions/delegated-authority-os-under-context-change) | [EA validation index](https://github.com/dakleyer/structural-awareness-contributions/tree/main/research/ecosystem-awareness/validation) | Extensible minimum mobility instantiation, challenges and four EA validation lenses. The UC-EA profiles are not four filed FG-TIDA Use Cases. |
+
 ## Selected industrial applications
 
 ### Enterprise architecture and rationalization
