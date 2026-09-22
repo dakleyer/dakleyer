@@ -1,74 +1,113 @@
 # Iván Abril Palma
 
-**Enterprise and complex-systems architecture · operational intelligence · technology value creation**
+**Enterprise Architecture · Technology Value Creation · Multi-Country Governance · AI Readiness**
 
-I work where large operational systems, institutional constraints and decision architectures meet. My background spans Nokia R&D, enterprise transformation, logistics and mobility platforms, and research on how organizations and AI-enabled systems establish sufficient clarity, recognize changing operating regimes and respond without unnecessary complexity.
+I work at the intersection of enterprise architecture, operational intelligence, institutional constraints and technology value creation.
 
-Contact: [ivan.abril@tegrity.ai](mailto:ivan.abril@tegrity.ai)
+Contact: [ivan.abril@tegrity.ai](mailto:ivan.abril@tegrity.ai) · [LinkedIn](https://www.linkedin.com/in/ivan-abril)
+
+---
+
+# Part I — Iván Abril Palma · Architect
+
+## Architecture profile
+
+25+ years across deep-tech R&D, enterprise transformation, mission-critical operational systems and current AI architecture.
+
+My work has included permanent, interim and fractional roles at enterprise and programme level, including responsibility for operating-model redesign, architecture, CAPEX/OPEX decisions, P&L, governance, cross-functional teams and technology transformation under multi-jurisdiction constraints.
+
+### Principal architecture domains
+
+- **Enterprise and technology architecture** — application and technology rationalization, target operating models, portfolio governance and post-M&A integration.
+- **Technology value creation** — cost reduction, CAPEX prioritization, dormant-capability discovery, revenue enablement and enterprise-value protection.
+- **Operational intelligence** — logistics, mobility, industrial control, decision support, event-driven orchestration and data/AI enablement.
+- **Governance and assurance** — GRC, cybersecurity, auditability, data governance, delegated authority and human oversight.
+- **Agentic and AI architecture** — ecosystem positioning, bounded epistemic state, regime change, minimum sufficient control and AI integrity management.
+
+## Selected architecture track record
+
+### Richemont — global enterprise architecture and technology rationalization
+Strategic architecture work across a global luxury group with 50+ Maisons, consolidating application/technology visibility, rationalization, governance and cross-Maison transformation.
+
+- [Group-wide application and technology rationalization](https://jubap.eu/1654-2/)
+- [Supply-chain rationalization and process mining](https://jubap.eu/supply-chain-rationalization-process-mining/)
+
+### PEMEX / industrial logistics — integrated operational intelligence
+Designed and led enterprise integration and operational-intelligence architectures across fragmented logistics operations, including unified control centres, application rationalization, enterprise data architecture, compliance and decision support.
+
+- [GEPLAN suite reconstruction](https://jubap.net/jubap-net-geplan-suite-from-embedded-suites-to-operational-ai-integrity/)
+- [Full operational account](https://jubap.net/before-digital-transformation-had-a-name-jubap-net-geplan-and-the-hidden-logistics-lab-behind-pemex-operations/)
+
+### Xcaret / Riviera Maya — mission-critical mobility and logistics orchestration
+Architecture and deployment of a large operational decision system coordinating transport, hotels, parks, demand, fleet assignment, re-routing, scheduling and incident response.
+
+- [xSeil passenger-transport orchestration](https://jubap.net/jubap-net-xseil-whitepaper/)
+
+### Airport, manufacturing and transformation programmes
+Enterprise and operating-model transformation in mission-critical environments including Mexico City International Airport, Nestlé, industrial manufacturing, energy and multi-company programmes.
+
+### Nokia R&D — distributed infrastructure and deep-tech operations
+Infrastructure and service operations for Nokia Barcelona R&D during the emergence of 3G, open standards and early mobile-service ecosystems, including distributed development infrastructure, automation and secure remote operations.
+
+## Architecture continuity
+
+The common thread across these cases is the architecture of **how fragmented systems establish enough structure, evidence, authority and control to act coherently**.
+
+---
+
+# Part II — Tegrity.AI · Platform
+
+**Tegrity.AI, part of The Integral Management Society**, is the public research and architecture platform through which I develop current work on Structural Awareness, AI Integrity Management and pre-standardization architecture.
+
+- [Tegrity.AI](https://tegrity.ai/)
+- [Structural Awareness Programme](https://tegrity.ai/structural-awareness-program/)
+- [Research Initiatives](https://tegrity.ai/research-initiatives/)
+- [Research Contributions](https://tegrity.ai/research-contributions/)
 
 ## Structural Awareness Programme
 
-My current research is organized through the [Structural Awareness Programme](https://tegrity.ai/structural-awareness-program/) at Tegrity.AI. It connects four questions:
+1. **Cost of Clarity** — what information, distinctions and authority must be established before commitment?
+2. **Ecosystem Awareness / Ecosystem Positioning** — what is sufficiently determined for this participant and decision, what remains unresolved, and when must the frame be requalified?
+3. **Regime Awareness** — do the assumptions and evidence supporting the current position still belong to the operating regime?
+4. **Regime Change Detection** — what observable evidence indicates that the operating regime has materially changed?
+5. **Minimum Sufficient Control Architecture (MSCA)** — what authorized configuration of coordination, intervention and enabling means is sufficient for the declared Objective Envelope?
+6. **AI Integrity Management** — how these architectural responsibilities connect to operational AI governance, assurance, safety, reliability and accountability.
 
-1. **Cost of Clarity** — what must be known before commitment?
-2. **Regime Awareness** — do the supporting assumptions remain valid?
-3. **Regime Change Detection** — what evidence indicates that the operating regime has changed?
-4. **Minimum Sufficient Control** — what bounded capacity is sufficient to maintain or recover the objective?
+These lines remain separate research and evidence corpora. Their integration is architectural; evidence or validation does not automatically transfer from one line to another.
 
-**Ecosystem Awareness** is the transversal, decision-scoped architecture between pre-commitment clarity, changing operating conditions and bounded control. It asks what is sufficiently determined, what residual remains and when the current frame must be requalified. It does not replace the four distinct questions above.
+## Current public contribution routes
 
-## Navigate the public work
+- [ITU-T FG-TIDA public theme contributions](https://github.com/dakleyer/structural-awareness-contributions/tree/main/submissions/itu-fg-tida/2026-theme-contributions)
+- [ITU-T FG-AI4SSC — Minimum Sufficient Control input](https://github.com/dakleyer/structural-awareness-contributions/tree/main/submissions/itu-fg-ai4ssc/FGAI4SSC-I-097)
+- [UNECE / UN / ITU public submissions library](https://github.com/dakleyer/structural-awareness-contributions/tree/main/submissions)
+- [Cost of Clarity / EIS Estonia RUP applied-research route](https://github.com/dakleyer/structural-awareness-contributions/tree/main/applied-research/cost-of-clarity-rup)
 
-The [Structural Awareness contribution repository](https://github.com/dakleyer/structural-awareness-contributions) is the GitHub entry point. Its workstreams retain separate ownership, evidence and validation requirements; these links are a reading route, not a claim that one workstream validates another.
+---
 
-| Begin with | Read next | What you will find |
-|---|---|---|
-| [Programme map](https://github.com/dakleyer/structural-awareness-contributions) | [Public submissions library](https://github.com/dakleyer/structural-awareness-contributions/tree/main/submissions) | Workstream questions, relationships and exact contribution status. |
-| [Cost of Clarity / RUP](https://github.com/dakleyer/structural-awareness-contributions/tree/main/applied-research/cost-of-clarity-rup) | [Ecosystem Awareness reading map](https://github.com/dakleyer/structural-awareness-contributions/blob/main/research/ecosystem-awareness/READING_MAP.md) | Pre-commitment information and authority, then the distinct EA decision-scoped architecture. |
-| [EA canonical corpus](https://github.com/dakleyer/structural-awareness-contributions/tree/main/research/ecosystem-awareness) | [DAOS-derived case and test guide](https://github.com/dakleyer/structural-awareness-contributions/blob/main/research/ecosystem-awareness/validation/DAOS_EA_USE_CASES_MASTERCLASS_v0.1.md) | Baseline, working annexes, benchmark, lineage, four validation profiles and provenance. The public mirror still has verification work pending. |
-| [Regime Awareness](https://github.com/dakleyer/structural-awareness-contributions/tree/main/research/regime-awareness) | [Minimum Sufficient Control](https://github.com/dakleyer/structural-awareness-contributions/tree/main/standards/minimum-sufficient-control) | Operating-context validity and bounded control; distinct research and standards-oriented routes. |
-| [Delegated Authority OS parent case](https://github.com/dakleyer/structural-awareness-contributions/tree/main/submissions/itu-fg-tida/2026-theme-contributions/delegated-authority-os-under-context-change) | [EA validation index](https://github.com/dakleyer/structural-awareness-contributions/tree/main/research/ecosystem-awareness/validation) | Extensible minimum mobility instantiation, challenges and four EA validation lenses. The UC-EA profiles are not four filed FG-TIDA Use Cases. |
+# Public content navigation
 
-## Selected industrial applications
+This profile README is the **canonical initial entry point** for the public GitHub work.
 
-### Enterprise architecture and rationalization
+## Level 1 — canonical initial entry
 
-- **[Group-wide application and technology rationalization](https://jubap.eu/1654-2/)** — spanning more than 50 Maisons and approximately 6,000 systems in a global luxury group. 
-- **[Supply-chain rationalization and process mining](https://jubap.eu/supply-chain-rationalization-process-mining/)** — reconstruction of multi-entity and multi-country flows, variants, bottlenecks, rework and application dependencies.
-- **[High-end event intelligence and demand orchestration](https://jubap.eu/high-end-event-intelligence-demand-orchestration/)** — reusable architecture for complex guest journeys across transport, aviation, hospitality, security, logistics, CRM and clienteling.
+[dakleyer/dakleyer](https://github.com/dakleyer/dakleyer)
 
-### Operational intelligence
+## Level 2 — programme repository
 
-- - **GEPLAN distributed logistics operations backbone** — an integrated operational, planning and control system that became the digital backbone of large-scale transport operations serving PEMEX across central and northern Mexico. It unified previously fragmented operations through three logistics control hubs and combined logistics planning, fleet maintenance, warehouses, purchasing, finance, HR, fuel and volumetric controls with operational traceability and decision support. The system detected irregular activities and inferred production, tank-volume and equipment-condition information from partially digitalized field operations. Its implementation also included process reengineering, ISO-based governance and interfaces designed for predominantly non-digital users. See the [suite reconstruction](https://jubap.net/jubap-net-geplan-suite-from-embedded-suites-to-operational-ai-integrity/) and the [full operational account](https://jubap.net/before-digital-transformation-had-a-name-jubap-net-geplan-and-the-hidden-logistics-lab-behind-pemex-operations/). GEPLAN supported contractor-side operations connected with PEMEX and became a reference source for regional logistics, but it was not a PEMEX-owned platform.
-- **[xSeil passenger-transport orchestration](https://jubap.net/jubap-net-xseil-whitepaper/)** — a 2016–2017 centralized, VRP-class platform for 10000+ daily visitors, 500 hotels or pickup points and more than 100 operational rules. It can be interpreted retrospectively as pre-agentic orchestration, although it was not originally described as an agent system.
-- **[Urban mobility in Tuxpan, Mexico](https://jubap.net/1843-2/)** — a 2010–2011 deployment with through GPS/GPRS, computer-vision passenger counting and a control centre.
+[Structural Awareness contributions](https://github.com/dakleyer/structural-awareness-contributions)
 
-### Regime-aware computation
+## Level 3 — corpus routers
 
-- **[Phylons](https://jubap.net/series/phylons_papers/)** — a code-grounded research lineage originating in 2018–2021 implementations, transforming continuous observations into semantic states and context-aware computations. It is an architectural and methodological corpus, not a claim of demonstrated trading returns.
+- [Ecosystem Awareness — entry-point router](https://github.com/dakleyer/structural-awareness-contributions/blob/main/research/ecosystem-awareness/README.md)
+- [Regime Awareness — corpus index](https://github.com/dakleyer/structural-awareness-contributions/blob/main/research/regime-awareness/README.md)
+- [Minimum Sufficient Control / MSCA — corpus index](https://github.com/dakleyer/structural-awareness-contributions/blob/main/standards/minimum-sufficient-control/README.md)
+- [Public submissions and contributions](https://github.com/dakleyer/structural-awareness-contributions/blob/main/submissions/README.md)
+- [Cost of Clarity / RUP applied research](https://github.com/dakleyer/structural-awareness-contributions/blob/main/applied-research/cost-of-clarity-rup/README.md)
 
-### R&D infrastructure and distributed systems
+From Level 3 onward, readers follow the documents and evidence inside each corpus. New public material should remain reachable from this cascade rather than creating a new independent entry route.
 
-- **[Nokia R&D] Nov 1999-2004** — infrastructure and service operations lead. My role included the implementation of distributed working infrastructure. WADC Barcelona worked on UMTS, open standards, firmware, hardware and early mobile-service prototypes, including messaging ecosystems, location-based services and early social-networking models.
+## Claim and evidence boundary
 
-## Current contribution areas
+The public material combines documented deployments, retrospective engineering reconstruction, current research, working architectures, benchmarks, validation designs and standards-facing contributions. Each artefact retains its own evidence burden and status.
 
-- **[Cost of Clarity — EIS Estonia RUP](projects/cost-of-clarity-rup.md)** — research into detecting missing, contradictory, tacit or undeclared information before commitment to complex initiatives. The intended output is an auditable Data and Information Readiness Instrument. The design identifies the [TalTech Information Systems Group](https://taltech.ee/en/is) and [TalTech Next Gen Digital State Research Group](https://taltech.ee/en/department-of-software-science/cooperation/next-gen-digital-state-research-group) as prospective sources of R&D capacity, subject to scope and agreement. See the [EIS Programme for Applied Research](https://eis.ee/en/services/programme-for-applied-research/).
-
-- **[ITU-T FG-TIDA](https://www.itu.int/en/ITU-T/focusgroups/tida/Pages/default.aspx)** — work on regime-aware trust, human authority and oversight. The [public contribution](contributions/fg-tida/operational-human-oversight.md) examines when evidence, time, capacity, authority or intervention reach are no longer sufficient.
-
-- **[ITU-T FG-AI4SSC](https://www.itu.int/en/ITU-T/focusgroups/ai4ssc/Pages/default.aspx)** — the [Minimum Sufficient Control input document](contributions/fg-ai4ssc/minimum-sufficient-control-input.pdf) proposes an architectural basis for comparing observation, coordination and intervention configurations against a city’s objectives and constraints.
-
-- **[QAVA — Universitat de València](https://www.uv.es/uvweb/research-service/en/research-groups-1285947851930.html?p2=3064)** — work on regime-change detection for quantum and quantum-inspired orchestration, using the historical [xSeil system](https://jubap.net/jubap-net-xseil-whitepaper/) as a reference for bounded routing and assignment problems. The state, transition and evidence model comes from the [Regime Awareness corpus](https://tegrity.ai/series/regime-awareness-in-adaptive-systems/).
-
-## Research references
-
-- **[Structural Awareness Programme](https://tegrity.ai/structural-awareness-program/)** — umbrella programme connecting clarity, regime awareness, change detection and minimum sufficient control.
-- **[Minimalistic Regime-Aware Early Warning Systems](https://tegrity.ai/minimalistic-regime-aware-early-warning-systems/)** — determining whether assumptions, baselines and controls remain valid under changing regimes.
-- **[The Limits of AI Oversight](https://tegrity.ai/the-limits-of-ai-oversight/)** — human supervisory capacity, escalation overload and the limits of formally present oversight.
-
-## Evidence and claim boundaries
-
-These cases have different evidential statuses: documented deployments, current research programmes and contemporary reconstructions of earlier systems. Participation in an institutional, research or standards discussion does not imply endorsement, adoption or validation by the organizations involved.
-
-See the broader corpus at [Tegrity.AI](https://tegrity.ai/) and [Regime Awareness in Adaptive Systems](https://tegrity.ai/series/regime-awareness-in-adaptive-systems/).
+A public contribution, standards discussion, research contact or institutional route must not be read as adoption, certification, endorsement or completed validation unless the cited source explicitly establishes it.
