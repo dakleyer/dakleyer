@@ -1,6 +1,6 @@
 # Iván Abril Palma
 
-**Enterprise Architecture · Technology Value Creation · Multi-Country Governance · AI Readiness**
+**Enterprise Architecture · Technology Value Creation · Multi-Country Governance **
 
 I work at the intersection of enterprise architecture, operational intelligence, institutional constraints and technology value creation.
 
